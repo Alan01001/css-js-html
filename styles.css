@@ -9,6 +9,15 @@ body {
     height: 100vh;
 }
 
+body{
+    
+    background-image: url(giphy.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+
 .container {
     text-align: center;
     background-color: #fff;
